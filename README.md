@@ -11,4 +11,3 @@ And one of them is you — the real you, still hoping, still waiting.
 <!-- 下方卡片会自动拉取 tbssjq 账号下所有仓库的语言占比，无需手动维护 -->
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tbssjq&layout=compact&langs_count=10&bg_color=33,ccbbff,ddaacc&title_color=fff&text_color=fff "tbssjq's Top Languages")
 ![tbssjq 的 GitHub 统计](https://github-readme-stats-eight-theta.vercel.app/api?username=tbssjq&show_icons=true&theme=visual_studio_code "tbssjq's GitHub Stats")
-![tbssjq 的近期活动趋势](https://github-readme-activity-graph.vercel.app/graph?username=tbssjq&theme=vs-code&custom_title=近30天活动趋势 "活动曲线图")
